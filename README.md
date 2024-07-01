@@ -31,13 +31,9 @@ Ports:
 |Port	|Type	|Description|
 |-----|-----|-----------|
 |7777	|UDP/IP	|(Game Port)|
-|-----|-----|-----------|
 |7778	|UDP/IP	(|Query Port; game port + 1)|
-|-----|-----|-----------|
 |7787	|UDP/IP	|(GameSpy Query Port; game port + 10)|
-|-----|-----|-----------|
 |28902	|TCP/IP	(|Allows your Server to Connect to the UT2004 Master Server Browser)|
-|-----|-----|-----------|
 |xxxx	|TCP/IP	|(Port set via ListenPort that your WebAdmin will run on)|
 
 
